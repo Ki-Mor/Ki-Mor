@@ -4,7 +4,7 @@ Je suis écologue-botaniste et géomaticien, j'aime bricoler de petits programme
 
 Ma maîtrise de Qgis s'est construite en parallèle de mon parcours d’écologue-naturaliste et en dehors du cadre professionnel strict, par curiosité et initiative. C’est notamment de cette manière que j’ai appris à utiliser, en autodidacte, les bases du langage SQL, pour structurer/exploiter proprement mes bases de données. 
 
-Je développe aujourd'hui un projet qui me tient particulièrement à cœur : **[Biblizou](https://github.com/Ki-Mor/biblizou)** un plugin open-source exploitant les ressources de l'INPN et des SINP régionaux, destiné à simplifier et centraliser la collecte de données bibliographiques faune et flore, pour les agents du domaine de la biodiversité. Cet investissement personnel et professionnel me conduit à appuyer fréquemment mes collègues naturalistes sur leurs pratiques du SIG et à faire le pont entre ces deux disciplines.
+Je développe aujourd'hui un projet qui me tient particulièrement à cœur : **[Biblizou](https://github.com/Ki-Mor/biblizou)** un plugin open-source exploitant les ressources de l'INPN et des SINP régionaux, destiné à simplifier et centraliser la collecte de données bibliographiques faune et flore, pour les agents du domaine de la biodiversité.
 
 ## 🔭 Projets en cours
 
@@ -24,10 +24,8 @@ Je développe aujourd'hui un projet qui me tient particulièrement à cœur : **
 
 ![Unmaintained](https://img.shields.io/badge/status-NotMaintained-red) **[Selective export](https://github.com/Ki-Mor/selective_export)** : Plugin pour Qgis 3.x permettant un l'export de pages choisies dans un composeur, sans ouvrir le-dit composeur.
 
-## 😄 Pronouns: He/Him
-
 ## 📫 Retrouvez moi sur :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/botcazoufrancois/) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Francois-Botcazou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/botcazoufrancois/) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Francois-Botcazou) [![Mail Pro](https://img.shields.io/badge/Mail-purple?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francois.botcazou@gmail.com)
 
 <!--
 **Ki-Mor/Ki-Mor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
