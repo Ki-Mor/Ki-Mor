@@ -8,15 +8,15 @@ Je développe aujourd'hui un projet qui me tient particulièrement à cœur : **
 
 ## 🔭 Projets en cours
 
-![Status](https://img.shields.io/badge/status-WIP-orange) **[Biblizou](https://github.com/Ki-Mor/biblizou)** : Plugin Qgis de Moissonnage bibliographique automatisé.
+![Status](https://img.shields.io/badge/status-WIP-orange) **[Biblizou](https://github.com/Ki-Mor/biblizou)** : Plugin Qgis d'assistance bibliographique automatisée pour les naturalistes.
 
   - ![Status](https://img.shields.io/badge/coverage-100%25-green) : Module de moissonnage des FSD
-  - ![Status](https://img.shields.io/badge/coverage-90%25-orange) : Module TAXREF
-  - ![Status](https://img.shields.io/badge/coverage-90%25-orange) : Module BDC
+  - ![Status](https://img.shields.io/badge/coverage-90%25-orange) : Module API TAXREF
+  - ![Status](https://img.shields.io/badge/coverage-90%25-orange) : Module API BDC
   - ![Status](https://img.shields.io/badge/status-WIP-orange) : Module Botazou
   - ![Status](https://img.shields.io/badge/status-ToDo-red) : Migration vers Qgis4
 
-![Status](https://img.shields.io/badge/status-WIP-orange) **[Zoul](https://github.com/Ki-Mor/zoul)** : Boite à outils de traitement évolutive ou j'ajoute certains de mes projets.
+![Status](https://img.shields.io/badge/status-WIP-orange) **[Zoul](https://github.com/Ki-Mor/zoul)** : Boite à outils de traitement évolutive où j'ajoute certains de mes projets.
 
 ![Status](https://img.shields.io/badge/status-Maintained-brightgreen) **[VBA_MSO_Word](https://github.com/Ki-Mor/VBA_MSO_Word)** : Collection de macros VBA destinées à Microsoft Word, principalement conçues pour accélérer la mise en forme de tableaux et de documents à contenu naturaliste / écologique (statuts de conservation, codes d'habitats EUNIS, listes rouges, etc.) ainsi que l'export en PDF.
 
