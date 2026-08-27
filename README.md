@@ -1,4 +1,4 @@
-## Hi there I'm François Botcazou
+## Salut c'est François Botcazou
 
 Je suis écologue-botaniste et géomaticien, j'aime bricoler de petits programmes pour améliorer mon quotidien.
 
