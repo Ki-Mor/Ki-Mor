@@ -20,7 +20,7 @@ Je développe aujourd'hui un projet qui me tient particulièrement à cœur : **
 
 ![Status](https://img.shields.io/badge/status-Maintained-brightgreen) **[VBA_MSO_Word](https://github.com/Ki-Mor/VBA_MSO_Word)** : Collection de macros VBA destinées à Microsoft Word, principalement conçues pour accélérer la mise en forme de tableaux et de documents à contenu naturaliste / écologique (statuts de conservation, codes d'habitats EUNIS, listes rouges, etc.) ainsi que l'export en PDF.
 
-![Unmaintained](https://img.shields.io/badge/status-NotMaintained-red) **[AutoZoomLock](https://github.com/Ki-Mor/auto_zoom_lock)** : Plugin pour Qgis 3.x permettant un zoom automatique sur la carte de l'entité sélectionnée dans une table attributaire. Projet abandonné, dans Qgis 4.x, un double clic sur une entité dans la table attributaire à la même fonction.
+![Unmaintained](https://img.shields.io/badge/status-NotMaintained-red) **[AutoZoomLock](https://github.com/Ki-Mor/auto_zoom_lock)** : Plugin pour Qgis 3.x permettant un zoom automatique sur la carte de l'entité sélectionnée dans une table attributaire. Projet fonctionnel mais abandonné, dans Qgis 4.x, un double clic sur une entité dans la table attributaire à la même fonction.
 
 ![Unmaintained](https://img.shields.io/badge/status-NotMaintained-red) **[Selective export](https://github.com/Ki-Mor/selective_export)** : Plugin pour Qgis 3.x permettant un l'export de pages choisies dans un composeur, sans ouvrir le-dit composeur.
 
