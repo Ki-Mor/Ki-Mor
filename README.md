@@ -14,7 +14,7 @@ Je développe aujourd'hui un projet qui me tient particulièrement à cœur : **
   - ![Status](https://img.shields.io/badge/coverage-90%25-orange) : Module TAXREF
   - ![Status](https://img.shields.io/badge/coverage-90%25-orange) : Module BDC
   - ![Status](https://img.shields.io/badge/status-WIP-orange) : Module Botazou
-  - ![Status](https://img.shields.io/badge/status-WIP-red) : Migration vers Qgis4
+  - ![Status](https://img.shields.io/badge/status-ToDo-red) : Migration vers Qgis4
 
 ![Status](https://img.shields.io/badge/status-WIP-orange) **[Zoul](https://github.com/Ki-Mor/zoul)** : Boite à outils de traitement évolutive ou j'ajoute certains de mes projets.
 
