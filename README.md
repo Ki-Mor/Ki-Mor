@@ -25,7 +25,7 @@ Je développe aujourd'hui un projet qui me tient particulièrement à cœur : **
 ![Unmaintained](https://img.shields.io/badge/status-NotMaintained-red) **[Selective export](https://github.com/Ki-Mor/selective_export)** : Plugin pour Qgis 3.x permettant un l'export de pages choisies dans un composeur, sans ouvrir le-dit composeur.
 
 ## 📫 Retrouvez moi sur :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/botcazoufrancois/) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Francois-Botcazou) [![Mail Pro](https://img.shields.io/badge/Mail-purple?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francois.botcazou@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/botcazoufrancois/) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Francois-Botcazou) [![Mail Pro](https://img.shields.io/badge/Mail-purple?style=for-the-badge&logo=proton&logoColor=white)](mailto:francois.botcazou@proton.me)
 
 <!--
 **Ki-Mor/Ki-Mor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
