@@ -11,8 +11,8 @@ Je développe aujourd'hui un projet qui me tient particulièrement à cœur : **
 ![Status](https://img.shields.io/badge/status-WIP-orange) **[Biblizou](https://github.com/Ki-Mor/biblizou)** : Plugin Qgis d'assistance bibliographique automatisée pour les naturalistes.
 
   - ![Status](https://img.shields.io/badge/coverage-100%25-green) : Module de moissonnage des FSD
-  - ![Status](https://img.shields.io/badge/coverage-90%25-orange) : Module API TAXREF
-  - ![Status](https://img.shields.io/badge/coverage-90%25-orange) : Module API BDC
+  - ![Status](https://img.shields.io/badge/coverage-90%25-orange) : Module d'enrichissement TAXREF
+  - ![Status](https://img.shields.io/badge/coverage-90%25-orange) : Module d'enrichissement BDC
   - ![Status](https://img.shields.io/badge/status-WIP-orange) : Module Botazou
   - ![Status](https://img.shields.io/badge/status-ToDo-red) : Migration vers Qgis4
 
