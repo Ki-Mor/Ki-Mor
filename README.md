@@ -8,15 +8,15 @@ Je développe aujourd'hui un projet qui me tient particulièrement à cœur : **
 
 ## 🔭 Projets en cours
 
-![Status](https://img.shields.io/badge/status-WIP-orange)![Status](https://img.shields.io/badge/private-red) **[Biblizou](https://github.com/Ki-Mor/biblizou)** : Plugin Qgis d'assistance bibliographique automatisée pour les naturalistes.
+![Status](https://img.shields.io/badge/status-TravailEnCours-yellow)![Status](https://img.shields.io/badge/RepoPrive-white) **[Biblizou](https://github.com/Ki-Mor/biblizou)** : Plugin Qgis d'assistance bibliographique automatisée pour les naturalistes.
 
-  - ![Status](https://img.shields.io/badge/coverage-100%25-green) : Module de moissonnage des FSD - moissonnage automatique des données issues des Formulaires Standards de Données (FSD) des sites ZNIEFF et Natura 2000 intersectant l’aire d’étude choisie.
-  - ![Status](https://img.shields.io/badge/coverage-90%25-orange)[Status](https://img.shields.io/badge/TestsEnCours-blue) : Module d'enrichissement TAXREF - interrogation de l’API de l’INPN pour extraire les référentiels taxonomiques officiels.
-  - ![Status](https://img.shields.io/badge/coverage-90%25-orange)[Status](https://img.shields.io/badge/TestsEnCours-blue)  : Module d'enrichissement BDC - interrogation de l’API de l’INPN pour consolider les statuts de protection et de conservation des espèces.
-  - ![Status](https://img.shields.io/badge/status-WIP-orange) : Module Botazou - regroupement automatisé des espèces de la flore par affinités écologiques
-  - ![Status](https://img.shields.io/badge/status-ToDo-red) : Migration vers Qgis4
+  - <img src="https://img.shields.io/badge/Avancement-██████████_100%25-brightgreen" alt="Avancement 100%"> : Module de moissonnage des FSD - moissonnage automatique des données issues des Formulaires Standards de Données (FSD) des sites ZNIEFF et Natura 2000 intersectant l’aire d’étude choisie.
+  - <img src="https://img.shields.io/badge/Avancement-█████████░_90%25-green" alt="Avancement 090%"> : Module d'enrichissement TAXREF - interrogation de l’API de l’INPN pour extraire les référentiels taxonomiques officiels.
+  - <img src="https://img.shields.io/badge/Avancement-█████████░_90%25-green" alt="Avancement 090%"> : Module d'enrichissement BDC - interrogation de l’API de l’INPN pour consolider les statuts de protection et de conservation des espèces.
+  - <img src="https://img.shields.io/badge/Avancement-█████░░░░░_50%25-orange" alt="Avancement 050%"> : Module Botazou - regroupement automatisé des espèces de la flore par affinités écologiques
+  - <img src="https://img.shields.io/badge/Avancement-░░░░░░░░░░_00%25-red" alt="Avancement 000%"> : Migration vers Qgis4
 
-![Status](https://img.shields.io/badge/status-WIP-orange) **[Zoul](https://github.com/Ki-Mor/zoul)** : Boite à outils de traitement évolutive où j'ajoute certains de mes projets.
+![Status](https://img.shields.io/badge/status-Maintained-brightgreen) **[Zoul](https://github.com/Ki-Mor/zoul)** : Boite à outils de traitement évolutive où j'ajoute certains de mes projets.
 
 ![Status](https://img.shields.io/badge/status-Maintained-brightgreen) **[VBA_MSO_Word](https://github.com/Ki-Mor/VBA_MSO_Word)** : Collection de macros VBA destinées à Microsoft Word, principalement conçues pour accélérer la mise en forme de tableaux et de documents à contenu naturaliste / écologique (statuts de conservation, codes d'habitats EUNIS, listes rouges, etc.) ainsi que l'export en PDF.
 
