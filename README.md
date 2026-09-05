@@ -8,7 +8,7 @@ Je développe aujourd'hui un projet qui me tient particulièrement à cœur : **
 
 ## 🔭 Projets en cours
 
-![Status](https://img.shields.io/badge/status-TravailEnCours-yellow)![Status](https://img.shields.io/badge/RepoPrive-white) **[Biblizou](https://github.com/Ki-Mor/biblizou)** : Plugin Qgis d'assistance bibliographique automatisée pour les naturalistes.
+![Status](https://img.shields.io/badge/status-TravailEnCours-yellow) **[Biblizou](https://github.com/Ki-Mor/biblizou)** : Plugin Qgis d'assistance bibliographique automatisée pour les naturalistes.
 
   - <img src="https://img.shields.io/badge/Avancement-██████████_100%25-brightgreen" alt="Avancement 100%"> : Module de moissonnage des FSD - moissonnage automatique des données issues des Formulaires Standards de Données (FSD) des sites ZNIEFF et Natura 2000 intersectant l’aire d’étude choisie.
   - <img src="https://img.shields.io/badge/Avancement-█████████░_90%25-green" alt="Avancement 090%"> : Module d'enrichissement TAXREF - interrogation de l’API de l’INPN pour extraire les référentiels taxonomiques officiels.
