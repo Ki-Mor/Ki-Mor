@@ -8,7 +8,14 @@ Je développe aujourd'hui un projet qui me tient particulièrement à cœur : **
 
 ## 🔭 Projets en cours
 
-![Status](https://img.shields.io/badge/status-TravailEnCours-yellow) **[Biblizou](https://github.com/Ki-Mor/biblizou)** : Plugin Qgis d'assistance bibliographique automatisée pour les naturalistes.
+ **[Biblizou](https://github.com/Ki-Mor/biblizou)**
+ 
+![Status](https://img.shields.io/badge/status-TravailEnCours-yellow)
+![GitHub Created At](https://img.shields.io/github/created-at/Ki-Mor/biblizou?style=social)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Ki-Mor/biblizou/main?display_timestamp=committer&style=social)
+![GitHub Release Date](https://img.shields.io/github/release-date-pre/Ki-Mor/biblizou?style=social)
+
+Plugin Qgis d'assistance bibliographique automatisée pour les naturalistes.
 
   - <img src="https://img.shields.io/badge/Avancement-██████████_100%25-brightgreen" alt="Avancement 100%"> : Module de moissonnage des FSD - moissonnage automatique des données issues des Formulaires Standards de Données (FSD) des sites ZNIEFF et Natura 2000 intersectant l’aire d’étude choisie.
   - <img src="https://img.shields.io/badge/Avancement-█████████░_90%25-green" alt="Avancement 090%"> : Module d'enrichissement TAXREF - interrogation de l’API de l’INPN pour extraire les référentiels taxonomiques officiels.
@@ -16,13 +23,39 @@ Je développe aujourd'hui un projet qui me tient particulièrement à cœur : **
   - <img src="https://img.shields.io/badge/Avancement-█████░░░░░_50%25-orange" alt="Avancement 050%"> : Module Botazou - regroupement automatisé des espèces de la flore par affinités écologiques
   - <img src="https://img.shields.io/badge/Avancement-░░░░░░░░░░_00%25-red" alt="Avancement 000%"> : Migration vers Qgis4
 
-![Status](https://img.shields.io/badge/status-Maintained-brightgreen) **[Zoul](https://github.com/Ki-Mor/zoul)** : Boite à outils de traitement évolutive où j'ajoute certains de mes projets.
+ **[Zoul](https://github.com/Ki-Mor/zoul)** :
+ 
+![Status](https://img.shields.io/badge/status-Maintained-brightgreen)
+![Status](https://img.shields.io/badge/status-Maintained-brightgreen)
+![GitHub Created At](https://img.shields.io/github/created-at/Ki-Mor/zoul?style=social)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Ki-Mor/zoul/main?display_timestamp=committer&style=social)
+![GitHub Release Date](https://img.shields.io/github/release-date-pre/Ki-Mor/zoul?style=social)
 
-![Status](https://img.shields.io/badge/status-Maintained-brightgreen) **[VBA_MSO_Word](https://github.com/Ki-Mor/VBA_MSO_Word)** : Collection de macros VBA destinées à Microsoft Word, principalement conçues pour accélérer la mise en forme de tableaux et de documents à contenu naturaliste / écologique (statuts de conservation, codes d'habitats EUNIS, listes rouges, etc.) ainsi que l'export en PDF.
+Boite à outils de traitement évolutive où j'ajoute certains de mes projets.
 
-![Unmaintained](https://img.shields.io/badge/status-NotMaintained-red) **[AutoZoomLock](https://github.com/Ki-Mor/auto_zoom_lock)** : Plugin pour Qgis 3.x permettant un zoom automatique sur la carte de l'entité sélectionnée dans une table attributaire. Projet fonctionnel mais abandonné, dans Qgis 4.x, un double clic sur une entité dans la table attributaire à la même fonction.
+**[VBA_MSO_Word](https://github.com/Ki-Mor/VBA_MSO_Word)**
 
-![Unmaintained](https://img.shields.io/badge/status-NotMaintained-red) **[Selective export](https://github.com/Ki-Mor/selective_export)** : Plugin pour Qgis 3.x permettant un l'export de pages choisies dans un composeur, sans ouvrir le-dit composeur.
+![Status](https://img.shields.io/badge/status-Maintained-brightgreen)
+![GitHub Created At](https://img.shields.io/github/created-at/Ki-Mor/VBA_MSO_Word?style=social)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Ki-Mor/VBA_MSO_Word/main?display_timestamp=committer&style=social)
+
+Collection de macros VBA destinées à Microsoft Word, principalement conçues pour accélérer la mise en forme de tableaux et de documents à contenu naturaliste / écologique (statuts de conservation, codes d'habitats EUNIS, listes rouges, etc.) ainsi que l'export en PDF.
+
+**[AutoZoomLock](https://github.com/Ki-Mor/auto_zoom_lock)** 
+
+![Unmaintained](https://img.shields.io/badge/status-NotMaintained-red) 
+![GitHub Created At](https://img.shields.io/github/created-at/Ki-Mor/AutoZoomLock?style=social)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Ki-Mor/AutoZoomLock/main?display_timestamp=committer&style=social)
+
+Plugin pour Qgis 3.x permettant un zoom automatique sur la carte de l'entité sélectionnée dans une table attributaire. Projet fonctionnel mais abandonné, dans Qgis 4.x, un double clic sur une entité dans la table attributaire à la même fonction.
+
+**[Selective export](https://github.com/Ki-Mor/selective_export)** 
+
+![Unmaintained](https://img.shields.io/badge/status-NotMaintained-red)
+![GitHub Created At](https://img.shields.io/github/created-at/Ki-Mor/selective_export?style=social)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Ki-Mor/selective_export/main?display_timestamp=committer&style=social)
+
+Plugin pour Qgis 3.x permettant un l'export de pages choisies dans un composeur, sans ouvrir le-dit composeur.
 
 ## 📫 Retrouvez moi sur :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/botcazoufrancois/) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Francois-Botcazou) [![Mail Pro](https://img.shields.io/badge/Mail-purple?style=for-the-badge&logo=proton&logoColor=white)](mailto:francois.botcazou@proton.me)
