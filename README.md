@@ -23,7 +23,7 @@ Plugin Qgis d'assistance bibliographique automatisée pour les naturalistes.
   - <img src="https://img.shields.io/badge/Avancement-█████░░░░░_50%25-orange" alt="Avancement 050%"> : Module Botazou - regroupement automatisé des espèces de la flore par affinités écologiques
   - <img src="https://img.shields.io/badge/Avancement-░░░░░░░░░░_00%25-red" alt="Avancement 000%"> : Migration vers Qgis4
 
- **[Zoul](https://github.com/Ki-Mor/zoul)** :
+ **[Zoul](https://github.com/Ki-Mor/zoul)**
  
 ![Status](https://img.shields.io/badge/status-Maintained-brightgreen)
 ![Status](https://img.shields.io/badge/status-Maintained-brightgreen)
