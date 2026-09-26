@@ -16,12 +16,12 @@ Je développe aujourd'hui un projet qui me tient particulièrement à cœur : **
 ![GitHub Release Date](https://img.shields.io/github/release-date-pre/Ki-Mor/biblizou?style=social)
 
 Plugin Qgis d'assistance bibliographique automatisée pour les naturalistes.
-
+<!--
   - <img src="https://img.shields.io/badge/Avancement-██████████_100%25-brightgreen" alt="Avancement 100%"> : Module de moissonnage des FSD - moissonnage automatique des données issues des Formulaires Standards de Données (FSD) des sites ZNIEFF et Natura 2000 intersectant l’aire d’étude choisie.
   - <img src="https://img.shields.io/badge/Avancement-█████████░_90%25-green" alt="Avancement 090%"> : Module d'enrichissement TAXREF - interrogation de l’API de l’INPN pour extraire les référentiels taxonomiques officiels.
   - <img src="https://img.shields.io/badge/Avancement-█████████░_90%25-green" alt="Avancement 090%"> : Module d'enrichissement BDC - interrogation de l’API de l’INPN pour consolider les statuts de protection et de conservation des espèces.
   - <img src="https://img.shields.io/badge/Avancement-█████░░░░░_50%25-orange" alt="Avancement 050%"> : Module Botazou - regroupement automatisé des espèces de la flore par affinités écologiques
-  - <img src="https://img.shields.io/badge/Avancement-░░░░░░░░░░_00%25-red" alt="Avancement 000%"> : Migration vers Qgis4
+  - <img src="https://img.shields.io/badge/Avancement-░░░░░░░░░░_00%25-red" alt="Avancement 000%"> : Migration vers Qgis4 -->
 
  **[Zoul](https://github.com/Ki-Mor/zoul)**
  
@@ -29,7 +29,6 @@ Plugin Qgis d'assistance bibliographique automatisée pour les naturalistes.
 ![Status](https://img.shields.io/badge/status-Maintained-brightgreen)
 ![GitHub Created At](https://img.shields.io/github/created-at/Ki-Mor/zoul?style=social)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Ki-Mor/zoul/main?display_timestamp=committer&style=social)
-![GitHub Release Date](https://img.shields.io/github/release-date-pre/Ki-Mor/zoul?style=social)
 
 Boite à outils de traitement évolutive où j'ajoute certains de mes projets.
 
@@ -44,8 +43,8 @@ Collection de macros VBA destinées à Microsoft Word, principalement conçues p
 **[AutoZoomLock](https://github.com/Ki-Mor/auto_zoom_lock)** 
 
 ![Unmaintained](https://img.shields.io/badge/status-NotMaintained-red) 
-![GitHub Created At](https://img.shields.io/github/created-at/Ki-Mor/AutoZoomLock?style=social)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Ki-Mor/AutoZoomLock/main?display_timestamp=committer&style=social)
+![GitHub Created At](https://img.shields.io/github/created-at/Ki-Mor/auto_zoom_lock?style=social)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Ki-Mor/auto_zoom_lock/main?display_timestamp=committer&style=social)
 
 Plugin pour Qgis 3.x permettant un zoom automatique sur la carte de l'entité sélectionnée dans une table attributaire. Projet fonctionnel mais abandonné, dans Qgis 4.x, un double clic sur une entité dans la table attributaire à la même fonction.
 
